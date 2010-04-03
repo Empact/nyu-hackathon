@@ -1,14 +1,7 @@
 !SLIDE
 
-# What problem do you want to solve?
-
-!SLIDE
-
-# What are our most pressing problems?
-
-!SLIDE
-
-# My (meta-)problem: Rational Ignorance
+# VoteReports
+## Knowing is Half the Ballot
 
 !SLIDE
 
@@ -23,7 +16,7 @@
 
 !SLIDE
 
-# *Even I* Don't:
+# Who Does(?):
 ## * CSPAN
 ## * Voting Records
 
