@@ -22,7 +22,7 @@
 
 !SLIDE
 
-# In Voting:
+# Instead:
 ## * Staying Home
 
 !SLIDE
