@@ -8,7 +8,7 @@
 
 !SLIDE
 
-# My meta-problem: Rational Ignorance
+# My (meta-)problem: Rational Ignorance
 
 !SLIDE
 
@@ -46,6 +46,11 @@
 
 !SLIDE
 
+## Why exactly do we collect, analyze, and share more data on baseball than on our own government?
+## - Mark Drapeau
+
+!SLIDE
+
 # The power to
 ## * Make War
 ## * Confiscate
@@ -53,7 +58,7 @@
 
 !SLIDE
 
-# Solution:
+# To Undermine RI:
 # Make it *easy* to know
 
 !SLIDE
@@ -78,55 +83,57 @@
 
 !SLIDE
 
-“HB 89 will carry significant weight in any future grade and endorsement decisions made by NRA’s Political Victory Fund.” - NRA
+“A poor score on the NRA’s legislative report card can make or break campaigns”
 
 !SLIDE
 
-“It is a shame, but you have to come to a realization around here that at this point in time, the N.R.A. gets the votes,” - Sen. Barbara Boxer (CA)
+“It is a shame, but you have to come to a realization around here that at this point in time, the N.R.A. gets the votes” - Sen. Barbara Boxer (CA)
 
 !SLIDE
 
 # VoteReports
+## Knowing is Half the Ballot
 
 !SLIDE
 
-# An objective politician report card for any cause, every cause
+## Making it easy to know who _you_ should be voting for
 
 !SLIDE
 
-# Mark legislation to create your own Report
-# View those created by others
+## An objective politician report card for any cause, every cause
 
 !SLIDE
 
-# View Hundreds from existing groups
-# Sportsmen and Animal Owner's Voting Alliance
-# Alliance For Headache Disorders Advocacy
-# Vote Hemp
+## * Create your own Report
+## * View those created by others
 
 !SLIDE
 
-# Follow Reports you agree with: your own personal report card
+## Hundreds from existing groups
+#### * Sportsmen and Animal Owner's Voting Alliance
+#### * Alliance For Headache Disorders Advocacy
+#### * Vote Hemp
 
 !SLIDE
 
-# Go to the polls with your iPhone
+## * Big new features this weekend
+## * Tons in the works
 
 !SLIDE
 
-# Expose the irrelevancy of the parties
+## * Promoting in June
+## * Elections in November
 
 !SLIDE
 
-A people who mean to be their own governors must arm themselves with the power that knowledge gives.
-- James Madison
-
-Liberty cannot be preserved without general knowledge amongst the people.
-- John Adams
-
-A nation that expects to be ignorant and free expects what never was and never will be.
-- Thomas Jefferson, 1816
+## A people who mean to be their own governors must arm themselves with the power that knowledge gives.
+## - James Madison
 
 !SLIDE
 
-# Questions?
+## A nation that expects to be ignorant and free expects what never was and never will be.
+## - Thomas Jefferson, 1816
+
+!SLIDE
+
+# http://votereports.org
